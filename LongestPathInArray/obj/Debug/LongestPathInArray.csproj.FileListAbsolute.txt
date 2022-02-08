@@ -1,0 +1,7 @@
+C:\Users\Dasha\source\repos\LongestPathInArray\LongestPathInArray\bin\Debug\LongestPathInArray.exe.config
+C:\Users\Dasha\source\repos\LongestPathInArray\LongestPathInArray\bin\Debug\LongestPathInArray.exe
+C:\Users\Dasha\source\repos\LongestPathInArray\LongestPathInArray\bin\Debug\LongestPathInArray.pdb
+C:\Users\Dasha\source\repos\LongestPathInArray\LongestPathInArray\obj\Debug\LongestPathInArray.csprojAssemblyReference.cache
+C:\Users\Dasha\source\repos\LongestPathInArray\LongestPathInArray\obj\Debug\LongestPathInArray.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\source\repos\LongestPathInArray\LongestPathInArray\obj\Debug\LongestPathInArray.exe
+C:\Users\Dasha\source\repos\LongestPathInArray\LongestPathInArray\obj\Debug\LongestPathInArray.pdb
